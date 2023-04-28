@@ -7,6 +7,6 @@ While we acknowledge that no AI can fully replicate the creative genius of Kafka
 
 Please note that this is an experimental project and the AI-generated chapters should be seen as a tribute to Kafka's work rather than a definitive continuation of his novel. We hope this unique approach encourages readers to engage with *The Trial* in a new and exciting way.
 
-We invite you to explore this AI-Completed Edition of "The Trial" and delve deeper into the enigmatic world of Kafka. Enjoy the read!
+We invite you to explore this AI-Completed Edition of *The Trial* and delve deeper into the enigmatic world of Kafka. Enjoy the read!
 
 For more details, visit the [website](https://kafkaaiproject.com)
